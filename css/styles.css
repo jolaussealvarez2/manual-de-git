@@ -1,0 +1,33 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+}
+
+header{
+    background-color: rgb(0, 26, 255);
+    
+}
+
+.navegacion a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.4rem;
+    margin-right: 2rem;
+}
+
+.navegacion a:hover{
+    color: #9e1414;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+p{
+    font-size: 1.6rem;
+}
+ header h1{
+     font-size: 3rem;
+     color: #c90505;
+ }
